@@ -1,0 +1,19 @@
+{
+    "name": "bigchungus/bigchungus",
+    "description": "Big Chungus",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bigchungus\\Bigchungus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joep Verhofstad",
+            "email": "joepverhofstad@student.gildeopleidingen.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
